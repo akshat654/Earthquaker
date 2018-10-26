@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Earthquake App</string>
+    <string name="sdd_conn">Add Connection</string>
+    <string name="my_conn">My Connections</string>
+    <string name="my_status">My Status</string>
+    <string name="status">You are in the Safe Zone now.</string>
+</resources>
