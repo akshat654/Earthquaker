@@ -1,5 +1,4 @@
-# Earthquaker
-QuakeSafe 
+# QuakeSafe 
 An Application for Earthquakes 
 The Concept:
 Earthquakes are the most expensive natural disasters humans face. A strong earthquake in the wrong place at the wrong time can cause great financial damage and cost tens of thousands of human lives. People panic during such tragedies and randomly follow the mob which is sometimes deadly as they may not be heading in the right direction and are always in need of an alternative source to confirm the safest nearby location. Also, people try to know the well-being of their dear ones through whatever platform is available to them, but the use of such platforms by others about whom we want to know is not guaranteed during such a situation. 
